@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pluyt.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pluyt.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://pluyt.github.io/mywebsite/cuppa-joe.html</loc>
+<lastmod>2024-09-05T09:19:43+02:00</lastmod>
+<image:image>
+<image:loc>https://pluyt.github.io/mywebsite/media/posts/1/coffee-typography-framed-print-28x42-200054-800x800.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pluyt.github.io/mywebsite/media/posts/1/Types-of-Coffee-Drinks_1200X1200.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pluyt.github.io/mywebsite/lets-talk-ingredients.html</loc>
+<lastmod>2024-09-05T09:38:36+02:00</lastmod>
+<image:image>
+<image:loc>https://pluyt.github.io/mywebsite/media/posts/2/d-Decaf-meaning2.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
